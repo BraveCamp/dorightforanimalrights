@@ -1,0 +1,27 @@
+body{
+	background-color: 
+ #cccc99;
+}
+
+p { color: black;}
+a { color: #003d99; }
+div.download-section {
+	background: url('http://www.cbc.ca/strombo/content/images/Japanese_Sushi_Cat2.jpg');
+}
+p{color:#b30086; -2px 2px 2px;}
+
+header.intro {
+	background: url('http://www.cbc.ca/strombo/content/images/Japanese_Sushi_Cat2.jpg');
+}
+
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 10px;
+}
+
+#yourmatchsurvey{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
